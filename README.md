@@ -1,2 +1,3 @@
 # todo-list
- first project using reactjs
+
+A simple to-do list application built using **React** and **Vite**.
